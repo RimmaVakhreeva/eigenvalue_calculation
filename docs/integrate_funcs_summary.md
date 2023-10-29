@@ -1,0 +1,1 @@
+This code defines several mathematical functions, including linear, quadratic, and polynomial functions. It also includes custom functions that involve complex numbers and trigonometric functions. All the functions are stored in a list called "all_functions".
